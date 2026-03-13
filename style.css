@@ -729,6 +729,7 @@ body {
   perspective: 1000px;
   margin: 0 auto;
   z-index: 1;
+  margin-top: 180px;
 }
 
 .slider {
